@@ -1,0 +1,13 @@
+logging_setup:
+  log_directory: log
+  logging_level: logging.DEBUG
+
+inputs:
+  inputs_dir: inputs
+  country_codes_file: df_indices_country.csv
+
+output:
+  output_dir: output
+
+chromedriver:
+  chromedriver_dir: chromedriver
