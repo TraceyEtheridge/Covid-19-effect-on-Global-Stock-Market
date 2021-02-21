@@ -12,7 +12,7 @@ List of world indices to scrape
 
 Historical Indices Values  
 • Note: Source for one index is shown below, all indices listed on page above are scraped (where exists)  
-• Source: https://finance.yahoo.com/quote/%5EGSPC?p=%5EGSPC   
+• https://finance.yahoo.com/quote/%5EGSPC?p=%5EGSPC   
 • Scraped using beautiful soup  
 
 Coronavirus Daily New Infections  
